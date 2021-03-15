@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PYC/apps/esp8266_battery_charger/.idea/esp8266_battery_charger.iml" filepath="$USER_HOME$/PYC/apps/esp8266_battery_charger/.idea/esp8266_battery_charger.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/haiot_wiki.iml" filepath="$PROJECT_DIR$/.idea/haiot_wiki.iml" />
     </modules>
   </component>
