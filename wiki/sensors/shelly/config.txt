@@ -1,0 +1,1 @@
+http://192.168.0.x/settings?mqtt_update_period=1
